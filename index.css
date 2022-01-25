@@ -5,4 +5,7 @@ body {
 .box {
   border: 2px solid silver;
   background-color: lavender;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.3em;
+
 }
