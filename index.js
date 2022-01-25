@@ -1,6 +1,7 @@
 function Sawaddee() {
   alert("Sawaddee");
 }
-function trytochat(){
+
+function Trytochat(){
   alert("You first step !!! :D");
 }
