@@ -6,6 +6,6 @@ function Trytochat(){
   alert("You first step !!! :D");
 }
 function End(){
-  alert("Goodbye");
+  alert("Goodbye xD");
 }
 
