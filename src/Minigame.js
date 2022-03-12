@@ -3,12 +3,12 @@ import './css/Minigame.css';
 function Minigame(){
     return (
     <div>        
-        <div className='Title'>This is minigame :3</div>
-        <div className="ball"> あ</div>
-        <div>い</div>
-        <div className="ball">う</div>
-        <div>え</div>
-        <div className="ball">お</div>
+        <div className='Title'> minigame </div>
+        <div className="ball"> 1</div>
+        <div>1</div>
+        <div className="ball">2</div>
+        <div>2</div>
+        <div className="ball">666</div>
     </div>
     )
 }
