@@ -2,6 +2,8 @@
   display: flex;
   align-items: center;
   padding: 0.5rem;
+  padding: 2.6rem;
   border-bottom: 1px solid #e5e5e5;
   cursor: pointer;
-}
+  background-color: rgb(227, 250, 227);
+} 
